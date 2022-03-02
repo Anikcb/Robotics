@@ -1,0 +1,2 @@
+recursive-include eff_word_net *.tflite
+recursive-include eff_word_net sample_refs *.json
